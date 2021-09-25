@@ -24,4 +24,9 @@ class Home extends BaseController
 		
 	}
 
+	public function coba2()
+	{
+
+	}
+
 }
